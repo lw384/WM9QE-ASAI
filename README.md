@@ -26,17 +26,20 @@ Through a blend of theory and practice, students learn to:
 
    ```bash
    git clone https://github.com/LeonardooAlves/WM9QE-ASAI.git
-   cd WM9QE-ASAI
+   cd .../WM9QE-ASAI
    ```
+   Alternatively, you can download each file separately as follows:
+   
+   ![Raw file download](https://private-user-images.githubusercontent.com/13165347/499987207-fd583c29-5532-4ece-b67c-434d60db2e75.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAxMTkxOTEsIm5iZiI6MTc2MDExODg5MSwicGF0aCI6Ii8xMzE2NTM0Ny80OTk5ODcyMDctZmQ1ODNjMjktNTUzMi00ZWNlLWI2N2MtNDM0ZDYwZGIyZTc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEwVDE3NTQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwMDQzODM0NjU0MDE0ZDRiNGE2MzJlYjc1MjkzM2QzMWY2NGMzNGU3NTYxNDBiMmY0ZjA1YTA5ZDEyMmI3ZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kTnnto2bXfU2sZm4IWjdexPLxU1P3q_iOUqt5ipnxng)
 
-2. **Open MATLAB and set the working directory**
+3. **Open MATLAB and set the working directory**
 
    ```matlab
    cd('path_to_downloaded_repo')
    ```
    Alternatively, upload the files to MATLAB online.
 
-3. **Explore tutorials**
+4. **Explore tutorials**
 
    * Open `.mlx` files to follow guided explanations.
 
